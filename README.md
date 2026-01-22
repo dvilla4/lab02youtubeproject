@@ -74,4 +74,4 @@ The collected datasets can be downloaded below:
 
 - [uw search results](assets/uw.csv)
 - [uofwa search results](assets/uofwa.csv)
-- [university of washington search results](assets/university_of_washington.csv)
+- [university of washington search results](assets/university-of-washington.csv)
