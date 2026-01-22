@@ -29,13 +29,13 @@ Comparing these terms helps illustrate how language choice affects YouTube searc
 ## Word Cloud Results
 
 ### Search Term: uw
-![UW Word Cloud](img/wordcloud-uw.png)
+![UW Word Cloud](img/uw.png)
 
 ### Search Term: uofwa
-![UOFWA Word Cloud](img/wordcloud-uofwa.png)
+![UOFWA Word Cloud](img/uofwa.png)
 
 ### Search Term: university of washington
-![University of Washington Word Cloud](img/wordcloud-university-of-washington.png)
+![University of Washington Word Cloud](img/university-of-washington.png)
 
 ---
 
@@ -72,6 +72,6 @@ This research could be improved by:
 ## Data Downloads
 The collected datasets can be downloaded below:
 
-- [UW search results](assets/uw.csv)
-- [UOFWA search results](assets/uofwa.csv)
-- [University of Washington search results](assets/university_of_washington.csv)
+- [uw search results](assets/uw.csv)
+- [uofwa search results](assets/uofwa.csv)
+- [university of washington search results](assets/university_of_washington.csv)
