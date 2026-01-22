@@ -17,7 +17,8 @@ For each search term, the crawler:
 - and exported the results into CSV files.
 
 ## Why This Comparison?
-These three terms were selected because they all reference the University of Washington but differ in formality and common usage.  
+The comparison was made from the curiosty of an incoming freshman. When I was an incoming freshman I would be excited to view all things regarding the University of Washington. Hence I was curious to see what the three main search topics had to offer in differences for the University of Washington. These three terms were selected because they all reference the University of Washington but differ in formality and common usage.  
+
 - **“uw”** is a casual abbreviation commonly used by students and alumni.
 - **“uofwa”** is less commonly used and may reflect a smaller or more specific user group.
 - **“university of washington”** is the full institutional name and is more likely used by official channels, news outlets, or prospective students.
